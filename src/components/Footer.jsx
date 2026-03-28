@@ -13,7 +13,7 @@ export default function Footer() {
             Valo House
           </p>
           <p className="font-serif italic text-stone text-lg md:text-xl">
-            A House of Courage.
+            A House of Valor.
           </p>
         </div>
 

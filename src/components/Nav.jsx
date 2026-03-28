@@ -93,7 +93,7 @@ export default function Nav() {
           </a>
         </div>
         <p className="mt-auto mb-16 text-xs tracking-[0.2em] uppercase text-stone font-sans font-light">
-          A House of Courage
+          A House of Valor
         </p>
       </div>
     </>

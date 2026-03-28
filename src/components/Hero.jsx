@@ -59,7 +59,7 @@ export default function Hero() {
         <p className="font-serif italic text-stone mb-14"
           style={{ fontSize: 'clamp(1.25rem, 3vw, 2.25rem)' }}
         >
-          A House of Courage.
+          A House of Valor.
         </p>
       </div>
 
