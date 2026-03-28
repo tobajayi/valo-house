@@ -37,12 +37,24 @@ export default function Hero() {
         </h1>
       </div>
 
+      {/* Etymology */}
+      <div
+        className={`transition-all duration-700 ease-out ${
+          mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
+        }`}
+        style={{ transitionDelay: '380ms' }}
+      >
+        <p className="text-xs tracking-[0.28em] uppercase text-bronze font-sans font-light mb-5">
+          Valo — Man of Valor
+        </p>
+      </div>
+
       {/* Tagline */}
       <div
         className={`transition-all duration-900 ease-out ${
           mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-6'
         }`}
-        style={{ transitionDelay: '400ms' }}
+        style={{ transitionDelay: '500ms' }}
       >
         <p className="font-serif italic text-stone mb-14"
           style={{ fontSize: 'clamp(1.25rem, 3vw, 2.25rem)' }}

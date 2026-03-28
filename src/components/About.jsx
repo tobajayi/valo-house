@@ -33,6 +33,17 @@ export default function About() {
 
             <FadeInSection delay={150}>
               <p className="font-sans font-light text-stone text-base md:text-lg leading-loose">
+                The name <em className="font-serif italic text-charcoal">Valo</em> is
+                derived from <em className="font-serif italic text-charcoal">valor</em> —
+                the ancient idea of a man of courage, strength, and moral worth.
+                In scripture, the phrase <em className="font-serif italic text-charcoal">man of valor</em> described
+                not just a warrior, but a man of complete character: faithful, capable, and ready.
+                That is the standard we are building toward.
+              </p>
+            </FadeInSection>
+
+            <FadeInSection delay={210}>
+              <p className="font-sans font-light text-stone text-base md:text-lg leading-loose">
                 Modern Christian men are often fragmented — spiritually inspired
                 but undisciplined, ambitious but unanchored, connected yet isolated.
               </p>

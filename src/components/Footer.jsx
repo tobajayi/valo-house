@@ -25,10 +25,10 @@ export default function Footer() {
 
           <div className="flex flex-col sm:flex-row gap-6 sm:gap-10">
             <a
-              href="mailto:hello@valohouse.com"
+              href="mailto:hello@valohouse.co"
               className="font-sans font-light text-xs tracking-[0.15em] uppercase text-stone hover:text-charcoal transition-colors duration-300"
             >
-              hello@valohouse.com
+              hello@valohouse.co
             </a>
             <a
               href="https://instagram.com/valohouse"
@@ -41,7 +41,7 @@ export default function Footer() {
           </div>
 
           <p className="font-sans font-light text-xs tracking-[0.12em] uppercase text-stone/50">
-            &copy; {year} Valo House. All rights reserved.
+            &copy; {year} Valo House &mdash; Man of Valor. All rights reserved.
           </p>
 
         </div>
